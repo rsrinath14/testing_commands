@@ -1,1 +1,1 @@
-Getiing comfortable with git
+Geting comfortable with git
